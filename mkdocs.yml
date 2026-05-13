@@ -1,8 +1,18 @@
 site_name: PyFlo
 repo_url: https://github.com/benjiyamin/pyflo/
-pages:
+nav:
 - Home: index.md
 - Examples: examples.md
+- Wiki:
+  - Overview: wiki/index.md
+  - Quick Start: wiki/quick-start.md
+  - Core Concepts: wiki/core-concepts.md
+  - Hydrology: wiki/hydrology.md
+  - Hydraulics: wiki/hydraulics.md
+  - Routing: wiki/routing.md
+  - Geometry: wiki/geometry.md
+  - Data Resources: wiki/data-resources.md
+  - API Map: wiki/api-map.md
 - Authors: authors.md
 - License: license.md
 theme: readthedocs
